@@ -1,0 +1,41 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  font-size: 180%;
+  font-family: Verdana;
+  letter-spacing: 5px;
+  text-transform: none;
+  text-align: center;
+  transform: none;
+  color: teal;
+  text-shadow: 1px 1px grey;
+}
+
+ h3, h4 {
+  color: DarkSlateGrey;
+  opacity: 90%;
+}
+
+img {
+  max-width: 50%;
+  max-height: 50%;
+  margin: auto;
+}
+
+iframe {
+  display: block;
+  margin: auto;
+  width: 660px;
+  height: 415px;
+ }
+ 
+a {
+  color: PaleVioletRed
+}
+
+input {
+  border: 2px solid grey;
+  border-radius: 4px;
+}
